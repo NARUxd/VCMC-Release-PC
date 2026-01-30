@@ -1,4 +1,4 @@
-# VCMC
+# VCMC - Voice Chat for Minecraft Bedrock
 
 **VCMC** is the ultimate tool for integrating advanced communication into your Minecraft games, whether in local worlds or dedicated servers.
 
