@@ -67,7 +67,8 @@ Configuration for communities and dedicated servers.
 ## 💬 Community & Support
 
 * **Discord:** Join our community for updates and support: [Join Discord](https://discord.com/invite/aJkuyUKRrM)
-* **Support the Project:** If you want to support development, download the app from the Play Store: [Download VCMC](https://play.google.com/store/apps/details?id=com.naru.vcmc)
+* **Play Store:** Download the app to support the project: [Download VCMC](https://play.google.com/store/apps/details?id=com.naru.vcmc)
+* **Donate:** Support development via PayPal: [paypal.me/NaruBoing](https://paypal.me/NaruBoing)
 
 ---
 
