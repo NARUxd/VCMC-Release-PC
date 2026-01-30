@@ -3,7 +3,7 @@
 **VCMC** es la herramienta definitiva para integrar comunicación avanzada en tus partidas de Minecraft, ya sea en mundos locales o servidores dedicados.
 
 <p align="center">
-  <img src="vcmc" alt="VCMC Icon" width="128">
+  <img src="assets/logojpg.png" alt="VCMC Icon" width="128">
 </p>
 
 ---
