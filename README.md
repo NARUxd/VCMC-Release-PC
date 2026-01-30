@@ -1,4 +1,4 @@
-# VCMC 🎙️🌐
+# VCMC
 
 **VCMC** es la herramienta definitiva para integrar comunicación avanzada en tus partidas de Minecraft, ya sea en mundos locales o servidores dedicados.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Cómo empezar
+## Cómo empezar
 
 La aplicación se divide en dos secciones principales: **Servers** y **Mundos**. Ambas requieren que el mundo o servidor tenga instalado su respectivo **Addon**.
 
