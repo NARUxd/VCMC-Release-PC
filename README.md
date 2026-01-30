@@ -33,7 +33,7 @@ Ideal para jugar con amigos en mundos locales mediante conexión directa.
 ### Para los Invitados:
 1. En la pestaña **Mundos**, toca el botón de **Agregar Amigo** (+) situado en la parte inferior derecha.
    ![Botón Agregar](assets/add.jpeg)
-2. Agrega al host por su identificador. Una vez agregado, haz clic sobre su nombre en la lista.
+2. Agrega al host por su gamertag. Una vez agregado, haz clic sobre su nombre en la lista.
 3. Entrarás a una sala común donde verás a todos los participantes. 
 4. **¡Listo!** No necesitas hacer nada más en la app, solo únete al mundo de tu amigo en Minecraft.
 
